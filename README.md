@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JyothchandraG
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Data science in IBM
 - 📫 How to reach me Linkedin: www.linkedin.com/in/jyothchandra-gude-8139871a1
 
